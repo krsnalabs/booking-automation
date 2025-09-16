@@ -8,6 +8,20 @@
       "when": 1726784321202,
       "tag": "0000_init-db",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758048314322,
+      "tag": "0001_supreme_the_anarchist",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1758050334595,
+      "tag": "0002_clean_swarm",
+      "breakpoints": true
     }
   ]
 }
